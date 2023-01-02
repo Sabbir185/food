@@ -1,0 +1,218 @@
+*{
+    font-family:sans-serif;
+}
+
+.navbar-brand{
+    color: black;
+}
+
+
+
+.navbar-brand{
+    font-weight: 700;
+    font-size: 25px;
+    margin-left: 200px;
+}
+
+.header-button{
+    margin-right: 200px;
+}
+
+
+
+.header-button button{
+    background-color: white;
+    border: 2px solid #2CB531;
+    padding: 12px 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.header-button a{
+    background-color: white;
+    border: 2px solid #2CB531;
+    padding: 12px 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.header-button a:hover{
+    background-color: #2CB531;
+    color: white;
+}
+
+.header-button button:hover{
+    background-color: #2CB531;
+    color: white;
+}
+
+.nav button{
+    background-color: white;
+    border: 2px solid #2CB531;
+    padding: 12px 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.nav button:hover{
+    background-color: #2CB531;
+    color: white;
+}
+
+/* a{
+    color: #2B2B2B;
+}
+
+a:hover{
+    color: #2CB531;
+} */
+
+.pickgo{
+    color: #2CB531;
+}
+
+.hero .hero-up{
+    background: #E1F2E2;
+    border-radius: 25px;
+    color: #2CB531;
+    font: bold;
+    height: 10px;
+    
+}
+
+
+
+.hero h1{
+    font-weight:900;
+    margin-top: 5px;
+    line-height: 50px;
+}
+
+p{
+    font-size: 14px;
+    color: #a9a0a0;
+}
+
+.hero-button button{
+    background-color: white;
+    padding: 12px 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    border: 2px solid #2CB531;
+    font-weight: 600;
+}
+
+.hero-button button:hover{
+    background-color: #2CB531;
+    color: white;
+}
+
+
+/* manage section */
+
+.manage{
+    background-color: #F4FFF9;
+    text-align: center!important;
+    padding: 80px;
+}
+
+.manage-text h2{
+    font-weight: bold;
+}
+
+/* .manage-text p{
+    color: #a9a0a0;
+} */
+
+.pickgo-card{
+    background-color: white;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.pickgo-card h4{
+    font-weight: 700;
+    margin-top: 25px;
+}
+
+.pickgo-card p{
+    margin-top: 15px;
+    padding-bottom: 15px;
+    line-height: 25px;
+}
+
+.pickgo-card img{
+    height: 84px;
+    width: 84px;
+    text-align: center!important;
+}
+
+
+/* make easy section */
+
+.make-easy{
+    background-color: white;
+    text-align: center;
+    padding: 80px;
+}
+
+ h2{
+    font-weight: bold;
+}
+
+
+/* business goal */
+
+.business-goal h2{
+    margin-top: 110px;
+}
+
+
+/* our solution section */
+
+.solution{
+    background-color: white;
+    text-align: center;
+    padding: 80px;
+}
+
+/* footer */
+
+.footer{
+    background-color: #F4FFF9;
+}
+
+a{
+    text-decoration: none;
+    color: #a9a0a0;
+}
+
+a:hover{
+    color: #2CB531;
+}
+
+
+ul li{
+    display: inline;
+}
+
+
+.footer-newsletter button{
+    background-color: #2CB531;
+    color: white;
+    font-weight: 600;
+    padding: 8px 15px;
+    border-radius: 2px;
+}
+
+
+.footer-newsletter button:hover{
+    background-color: white;
+    border: 2px solid #2CB531;
+    
+}
+
+
